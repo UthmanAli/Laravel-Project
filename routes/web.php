@@ -19,7 +19,7 @@ Route::get('/about',function(){
 	return view('about');
 });
 
-Route::get('/Pakistan',function(){
-	return view('Pakistan');
+Route::get('/reference',function(){
+	return view('reference');
 });
 
