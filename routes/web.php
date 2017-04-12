@@ -19,7 +19,7 @@ Route::get('/about',function(){
 	return view('about');
 });
 
-Route::get('/reporting',function(){
+Route::get('/reportingreporting',function(){
 	return view('reporting');
 });
 
